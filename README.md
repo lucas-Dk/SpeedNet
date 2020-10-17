@@ -8,7 +8,7 @@ da sua internet
 
 #Como posso obtê-lo:
 
-vá ao terminal e digite git + link do meu script
+vá ao terminal e digite git clone + link do meu script
 
 cd SpeedNet
 python3 speednet.py
